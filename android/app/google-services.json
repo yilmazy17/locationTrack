@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988815669122",
+    "project_id": "locationtracking-5100d",
+    "storage_bucket": "locationtracking-5100d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988815669122:android:6e41ddf5297421733f819b",
+        "android_client_info": {
+          "package_name": "com.example.locationtrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988815669122-vv5jaifs57nejbcf9frhl29952k9d5db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationtrial",
+            "certificate_hash": "23898f256796d1520341d30ee8e3e5a91444a17d"
+          }
+        },
+        {
+          "client_id": "988815669122-b760bt8skm3kvg86nidve289qbjm55lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUdvfFRnQ3zzTQN7tfZy-MdEVknBu8AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988815669122-b760bt8skm3kvg86nidve289qbjm55lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
